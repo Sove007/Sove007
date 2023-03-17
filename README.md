@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/saurav." target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="saurav." height="30" width="40" /></a>
 <a href="https://codesandbox.com/sove007" target="blank"><img align="center" src="https://ci.codesandbox.io/static/favicon.ico" alt="sove007" height="30" width="40" /></a>
-<a href="https://instagram.com/import_sove_from.js" target="blank"><img align="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" alt="import_sove_from.js" height="30" width="40" /></a>
+<a href="https://instagram.com/import_sove_from.js" target="blank"><img align="center" src = "https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="import_sove_from.js" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
